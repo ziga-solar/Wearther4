@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wearther</string>
+    <string name="what_to_wear">What to wear</string>
+    <string name="enter_location">Enter location</string>
+    <string name="title_activity_wearther">WeartherActivity</string>
+    <string name="tab_text_1">Weather</string>
+    <string name="tab_text_2">Clothes</string>
+    <string name="tab_text_3">Travel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="todo">TODO</string>
+</resources>
